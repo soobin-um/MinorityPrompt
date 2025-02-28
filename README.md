@@ -1,6 +1,8 @@
-# Minority-Focused Text-to-Image Generation via Prompt Optimization
+# Minority-Focused Text-to-Image Generation via Prompt Optimization (CVPR 2025)
 
-This repository contains the code for the paper "Minority-Focused Text-to-Image Generation via Prompt Optimization".
+Soobin Um and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+
+This repository contains the code for the paper "Minority-Focused Text-to-Image Generation via Prompt Optimization" (CVPR 2025).
 
 ## Setup
 
@@ -28,3 +30,14 @@ source scripts/text_to_mscoco.sh
 ```
 
 Feel free to modify the scripts to fit your needs.
+
+## Citation
+If you find this repository useful, please cite our paper:
+```
+@article{um2024minorityprompt,
+  title={MinorityPrompt: Text to Minority Image Generation via Prompt Optimization},
+  author={Um, Soobin and Ye, Jong Chul},
+  journal={arXiv preprint arXiv:2410.07838},
+  year={2024}
+}
+```

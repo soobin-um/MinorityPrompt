@@ -1,4 +1,4 @@
-# Minority-Focused Text-to-Image Generation via Prompt Optimization (CVPR 2025)
+# Minority-Focused Text-to-Image Generation via Prompt Optimization (CVPR 2025 oral)
 
 Soobin Um and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
 

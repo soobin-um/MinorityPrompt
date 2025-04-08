@@ -1,6 +1,6 @@
 # Minority-Focused Text-to-Image Generation via Prompt Optimization (CVPR 2025 Oral)
 
-Soobin Um and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
+[Soobin Um](https://soobin-um.github.io/) and [Jong Chul Ye](https://bispl.weebly.com/professor.html)
 
 This repository contains the code for the paper "Minority-Focused Text-to-Image Generation via Prompt Optimization" (CVPR 2025 Oral).
 
